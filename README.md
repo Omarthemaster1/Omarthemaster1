@@ -1,8 +1,1 @@
-# perfilawdadwjadnawd
-# perfilawdadwjadnawd
-# perfilawdadwjadnawd
-# perfilawdadwjadnawd
-# perfilawdadwjadnawd
-# perfilawdadwjadnaerfilawdadwjadnawd
-
-
+# Hola soy Omar Quiñones 👋
