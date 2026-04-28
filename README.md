@@ -32,5 +32,6 @@ Aplicación enfocada en la organización y administración de datos.
 
 ## 📫 Contacto
 
-- LinkedIn: (tu link)
-- Correo: (opcional)
+- LinkedIn: [(tu link)](https://www.linkedin.com/in/omar-andres-quinones-mejia-a1980b397)
+- Correo: oquinones@unal.edu.co
+  
