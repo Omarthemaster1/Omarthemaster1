@@ -1,4 +1,4 @@
-# 👋 Hola, soy Omar
+# 👋 Hola, soy Omar Andres Quiñones Mejia
 
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Apasionado por el desarrollo backend y las APIs  
